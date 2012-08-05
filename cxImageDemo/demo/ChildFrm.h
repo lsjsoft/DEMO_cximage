@@ -6,7 +6,6 @@
 class testClass
 {
 public:
-	CString m_strName;
 	unsigned int m_uiValue;
 };
 
