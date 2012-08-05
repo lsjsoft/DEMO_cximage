@@ -11,7 +11,6 @@ public:
 // Attributes
 public:
 
-// Operations
 public:
 
 // Overrides
@@ -36,6 +35,8 @@ protected:
 };
 
 /////////////////////////////////////////////////////////////////////////////
+
+// ok.
 
 /** 
  * shaojingliu
