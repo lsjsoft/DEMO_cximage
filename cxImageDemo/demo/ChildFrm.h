@@ -2,6 +2,14 @@
 //
 /////////////////////////////////////////////////////////////////////////////
 
+// Ok. this go
+class testClass
+{
+public:
+	CString m_strName;
+	unsigned int m_uiValue;
+};
+
 class CChildFrame : public CMDIChildWnd
 {
 	DECLARE_DYNCREATE(CChildFrame)
