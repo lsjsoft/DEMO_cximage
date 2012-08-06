@@ -9,6 +9,17 @@
 
 #include "xTargetButton.h"
 
+/** sdfkd
+ * sdfasdf
+ * asdfasdf
+ * asdfasdf
+ *?
+ */
+class xx
+{
+public:
+};
+
 class CDemoDoc;
 /////////////////////////////////////////////////////////////////////////////
 // DlgMix dialog
